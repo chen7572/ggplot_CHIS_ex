@@ -1,4 +1,5 @@
-# CHIS exercise 
+### CHIS exercise from DataCamp 
+### Scripts for exercises in Chapter 5. Case study are copied into this R script. 
 
 ## Exploring the data 
   # Explore the dataset with summary and str
